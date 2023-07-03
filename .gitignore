@@ -1,9 +1,2 @@
-.classpath
-.project
-node_module/
-install.sh
-.classpath1
-.project1
-node_module1/
-.test.sc
-
+./classpath
+./project
